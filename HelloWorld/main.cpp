@@ -1,14 +1,17 @@
-//
-//  main.cpp
-//  HelloWorld
-//
-//  Created by ピタソン・ラニク on 2/3/21.
-//
+/*
+Author: Lanique Peterson
+ 
+Hello World
+*/
 
 #include <iostream>
+#include <string>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+
+int main() {
+    // let's print the beginner's classic...
+    cout << "Hello, World!\n";
+
+return 0;
 }
